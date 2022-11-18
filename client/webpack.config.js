@@ -34,8 +34,8 @@ module.exports = () => {
         name: 'Text Editor',
         short_name: 'TxtEdit',
         description: 'A simple way to edit your text',
-        background_color: '#008B8B',
-        theme_color: '#00008B',
+        background_color: '#225ca3',
+        theme_color: '#225ca3',
         start_url: '/',
         publicPath: '/',
         icons: [
